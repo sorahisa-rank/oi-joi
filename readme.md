@@ -10,5 +10,7 @@
         -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2023/ranking/)
     -   2024
         -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2024/ranking/)
+    -   2025
+        -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2025/ranking/)
 -   JOI Open Contest
     -   [2024](https://sorahisa-rank.github.io/oi-joi/open/2024/ranking/)
