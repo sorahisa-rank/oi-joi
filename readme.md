@@ -1,4 +1,4 @@
-# JOI Final Round 本選
+# JOI Final Round 本選 / セミファイナルステージ
 
 -   2022
     -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/final/2022/ranking/)
@@ -7,7 +7,7 @@
 -   2024
     -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/final/2024/ranking/)
 
-# JOI Spring Camp 春合宿 / 春季トレーニング
+# JOI Spring Camp 春合宿 / 春季トレーニング / ファイナルステージ
 
 -   2022
     -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2022/ranking/)
@@ -17,6 +17,8 @@
     -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2024/ranking/)
 -   2025
     -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2025/ranking/)
+-   2026
+    -   [鏡像賽 Mirror](https://sorahisa-rank.github.io/oi-joi/spring-camp/2026/ranking/)
 
 # JOI Open Contest
 
